@@ -1,0 +1,28 @@
+{
+    "empleados" : [
+        {
+            "id" : 1,
+            "nombre" : "Richard Pereira",
+            "puesto" : "Programador Web"
+        },
+
+        {
+            "id" : 2,
+            "nombre" : "Elber Galarga",
+            "puesto" : "UX / UI"
+        },
+
+        {
+            "id" : 3,
+            "nombre" : "Susana Horia",
+            "puesto" : "Marketing"
+        },
+
+        {
+            "id" : 4,
+            "nombre" : "Sevelinda Parada",
+            "puesto" : "Servidores"
+        }
+    
+    ]
+}
